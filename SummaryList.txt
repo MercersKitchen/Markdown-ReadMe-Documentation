@@ -1,0 +1,64 @@
+Purpose of this DOC
+1. Take content (text, images, & video) and 
+   add metacontent organization
+2. Research HTML Tag meta-organization and create formatted ReadMe file
+
+Creating a Formal Outline
+- Combining different ordered and unordered notations, with spaces
+- Play with these until you have something you enjoy
+
+Note:
+- Able to test and use raw HTML in Markdown
+- Test this and see what you find useful
+- See https://www.w3schools.com/htmL/ for more information
+  Last accessed: 20180715
+
+CAUTION: red highlights in Browser's Editor indicate combination errors
+
+Create an Outline with Titles and Section Headers, same as html tags
+
+a. H1 - H6
+
+Content
+
+a. Videos
+
+b. Images and Logos: Inline & Variable-type reference
+
+Note: variable reference for logo means change reference once for all copies
+
+Adding code emphasis with highlighting
+
+a. Use single or triple back-tics, `
+
+b. Name the language for keyword emphasis
+
+c. OPTION: 4-spaces, using space bar, will do the same as back-tics, not recommended for readability
+
+Simple Text and Breaks
+
+a. Single enter to break in .txt
+
+b. Double enter to break in .md
+
+Bold or Italic Emphasis in text
+
+a. Bold: *
+
+b. Italics: _
+
+Lists as ordered or unordered
+
+a. Numbers
+
+b. Dashes
+
+Blockquotes: use > for each line
+
+URL Links
+
+a. Hyperlink text: (Text)[URL]
+
+b. double backslashes and www are recognized and formatted (blue ink and underlined) as click-able hyperlinks
+
+Organizing Sections with a solid gray line: three dashes or asterisks or underscores
