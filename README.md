@@ -1,4 +1,4 @@
-# Markdown-ReadMe-Documentation
+# Markdown ReadMe Files Documentation
 GitHub & General Markdown language with HTML tags to create a "Read Me" editable in a WYSIWYG like Atom.io.
 
 Introductions to pure Markdown and HTML tags
