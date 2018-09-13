@@ -22,7 +22,7 @@ Building a **To Do List**: see additional scripts
   GitHub and other Videos
 
   Transforming Images
-  
+
   To Do List
 
 ### Summary List of organizing a ReadMe.md or .txt File ###
@@ -106,10 +106,11 @@ https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
 - add a back-tic, `beginning and end`, for inline highlighting
 - add three back-tics, like a comment, at the beginning and end
 - name the language being written for coloured keywords
+- examples are given below if reading the Markdown, pre-rendered file
 
 ### YouTube Video Additions ###
 Why YouTube
-- Able to use all of YouTube's video editting software
+- Able to use all of YouTube's video editing software
 - Able to link the YouTube video to ReadMe.md to save space in GitHub (another demonstration of social media managing)
 
 Empty Script Illustrates
@@ -228,6 +229,19 @@ Note: HTML Cross out tags
 ```html
 <del>brainstorming but not even tried</del>
 ```
+
+---
+
+### Hyperlinks and Texts
+
+CATUION: opening the Hyperlink in a new Tab not currently support with attribute `target="_blank"`
+
+Simple Hyperlink and Click Here Text, inline
+`<a href="FULL URL">Click Here</a>`
+
+Simple Hyperlink and Click Here, next line
+`<a href="FULL URL"><p>Click Here</p></a>`
+- notice <p></p> automatically add <br> or line break tag
 
 ---
 
