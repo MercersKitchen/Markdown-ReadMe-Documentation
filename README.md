@@ -238,11 +238,11 @@ CATUION: opening the Hyperlink in a new Tab not currently support with attribute
 
 1. Simple Hyperlink and Click Here Text, inline
 
-`<a href="FULL URL">Click Here</a>`
+   `<a href="FULL URL">Click Here</a>`
 
 2. Simple Hyperlink and Click Here, next line
 
-`<a href="FULL URL"><p>Click Here</p></a>`
+   `<a href="FULL URL"><p>Click Here</p></a>`
 
    - notice `<p></p>` automatically add `<br>` or line break tag
 
