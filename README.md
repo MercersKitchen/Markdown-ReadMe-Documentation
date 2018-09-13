@@ -14,27 +14,14 @@ Building a **To Do List**: see additional scripts
 - PDF Summary Sheet from GitHub: <a href="">Click Here</a>
 - Supporting Documents and additional reference guides: <a href="">Click Here</a>
 - Additional Scripts
-<<<<<<< HEAD
-  - Raw Code: <a href="">Click Here</a>
-  - YouTube Videos: <a href="">Click Here</a>
-  - GitHub and other Videos: <a href="">Click Here</a>
-  - Transforming Images: <a href="">Click Here</a>
-  - To Do List: <a href="">Click Here</a>
-  - Hyperlinks: <a href="">Click Here</a>
-=======
+  - Raw Code: <a href="https://github.com/MercersKitchen/Markdown-ReadMe-Documentation/blob/master/README.md#raw-code-examples-below">Click Here</a>
+  - YouTube Videos: <a href="https://github.com/MercersKitchen/Markdown-ReadMe-Documentation/blob/master/README.md#youtube-video-additions">Click Here</a>
+  - GitHub and other Videos: <a href="https://github.com/MercersKitchen/Markdown-ReadMe-Documentation/blob/master/README.md#github-video-additions-or-pure-markdown">Click Here</a>
+  - Transforming Images: <a href="https://github.com/MercersKitchen/Markdown-ReadMe-Documentation/blob/master/README.md#image-transformations">Click Here</a>
+  - To Do List: <a href="https://github.com/MercersKitchen/Markdown-ReadMe-Documentation/blob/master/README.md#to-do-list">Click Here</a>
+  - Hyperlinks: <a href="https://github.com/MercersKitchen/Markdown-ReadMe-Documentation/blob/master/README.md#hyperlinks-and-texts">Click Here</a>
 
-  Raw Code
-
-  YouTube Videos
-
-  GitHub and other Videos
-
-  Transforming Images
-
-  To Do List
-  
-  Hyperlinks
->>>>>>> 3d54f8d80763897f7f51c73f69a993f90c49668f
+---
 
 ### Summary List of organizing a ReadMe.md or .txt File ###
 **See SummaryList.txt** for example planning document
