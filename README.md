@@ -237,11 +237,14 @@ Note: HTML Cross out tags
 CATUION: opening the Hyperlink in a new Tab not currently support with attribute `target="_blank"`
 
 Simple Hyperlink and Click Here Text, inline
+
 `<a href="FULL URL">Click Here</a>`
 
 Simple Hyperlink and Click Here, next line
+
 `<a href="FULL URL"><p>Click Here</p></a>`
-- notice <p></p> automatically add <br> or line break tag
+
+- notice `<p></p>` automatically add `<br>` or line break tag
 
 ---
 
