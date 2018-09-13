@@ -11,19 +11,15 @@ Building a **To Do List**: see additional scripts
 - Include dates of copletion if not already included in version control comments and commits
 
 ### Outline ###
-- PDF Summary Sheet from GitHub
-- Supporting Documents and additional reference guides
+- PDF Summary Sheet from GitHub: <a href="">Click Here</a>
+- Supporting Documents and additional reference guides: <a href="">Click Here</a>
 - Additional Scripts
-
-  Raw Code
-
-  YouTube Videos
-
-  GitHub and other Videos
-
-  Transforming Images
-
-  To Do List
+  - Raw Code: <a href="">Click Here</a>
+  - YouTube Videos: <a href="">Click Here</a>
+  - GitHub and other Videos: <a href="">Click Here</a>
+  - Transforming Images: <a href="">Click Here</a>
+  - To Do List: <a href="">Click Here</a>
+  - Hyperlinks: <a href="">Click Here</a>
 
 ### Summary List of organizing a ReadMe.md or .txt File ###
 **See SummaryList.txt** for example planning document
