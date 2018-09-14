@@ -8,7 +8,7 @@ Building a **To Do List**: see additional scripts
 - Items marked as *need to be done* or *done*
 - No List item is erased
 - Tracks progress
-- Include dates of copletion if not already included in version control comments and commits
+- Include dates of completion if not already included in version control comments and commits
 
 ### Outline ###
 - PDF Summary Sheet from GitHub: <a href="">Click Here</a>
